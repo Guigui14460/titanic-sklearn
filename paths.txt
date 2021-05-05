@@ -1,0 +1,4 @@
+cd C:\My Program Files\test_bug_trees__env
+Scripts\activate.bat
+Scripts\python.exe -m pip install scikit-learn jupyterlab
+cd C:\Users\NNLL9818\Documents\test_bug_trees
